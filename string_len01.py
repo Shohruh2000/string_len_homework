@@ -7,6 +7,7 @@ def main(a):
         length of string
     """
     
-    return a
-a = main("python")
-print(len(a))
+    return len(a)
+x = main("pythondevloper")
+print(x)
+
