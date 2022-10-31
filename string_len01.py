@@ -8,5 +8,5 @@ def main(a):
     """
     
     return a
-s = main("python")
-print(len(s))
+a = main("python")
+print(len(a))
