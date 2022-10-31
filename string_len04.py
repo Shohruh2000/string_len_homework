@@ -10,6 +10,6 @@ def main(s):
     """
     
     b = len(s)
-    return int(b) 
+    return (b) 
 x = main("python123")
 print(x*"*")
