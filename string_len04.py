@@ -9,7 +9,7 @@ def main(s):
         string
     """
     
-    b = len(s)
-    return (b) 
+
+    return len(s)
 x = main("python123")
 print(x*"*")
