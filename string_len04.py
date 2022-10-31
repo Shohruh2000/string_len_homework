@@ -11,5 +11,5 @@ def main(s):
     
     b = len(s)
     return int(b) 
-x = main("python")
+x = main("python123")
 print(x*"*")
