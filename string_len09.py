@@ -11,7 +11,5 @@ def main(num1, num2):
     """
     x = int(num1)
     y = int(num2)
-
     return x+y
-
 print(main("435","45"))
